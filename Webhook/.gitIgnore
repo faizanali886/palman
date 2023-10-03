@@ -1,0 +1,9 @@
+.env
+__pycache__/
+.dockerIgnore
+Dockerfile
+sendifytest.py
+replicatetest.py
+gpt-ssml-test.py
+bot-dbtest.py
+tts.py
